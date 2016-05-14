@@ -1,0 +1,32 @@
+{
+  "name": "githooks",
+  "version": "1.0.0",
+  "description": "going to test the git hooks",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-karma": "^1.0.0",
+    "jasmine-core": "^2.2.0",
+    "jasmine-json-reporter": "^1.0.0",
+    "jasmine-json-test-reporter": "^1.0.0-beta",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cli": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-json-reporter": "^1.2.0"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephAntony/githooks.git"
+  },
+  "author": "Joseph Antony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephAntony/githooks/issues"
+  },
+  "homepage": "https://github.com/JosephAntony/githooks#readme"
+}
